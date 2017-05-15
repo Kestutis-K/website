@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d57913e-3273-4cb5-a771-68a8b798955b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="valdymas/includes/config.php" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="livalt_eziukai@kormoranas.serveriai.lt" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="livalt_eziukai@kormoranas.serveriai.lt" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="livalt_eziukai" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="livalt_eziukai@kormoranas.serveriai.lt" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="livalt_eziukai" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="photos" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="eziukai.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eziukai.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2583">
+              <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7980">
+              <caret line="380" column="13" lean-forward="false" selection-start-line="380" selection-start-column="13" selection-end-line="380" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/valdymas/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="init.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/valdymas/includes/init.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="livalt_eziukai.photos" pinned="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/fbd660a3/cfc71101-d344-4c28-a7a4-738e10cde76f/livalt_eziukai.photos">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="queries.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/css/queries.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendors/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122640">
+              <caret line="5840" column="0" lean-forward="false" selection-start-line="5840" selection-start-column="0" selection-end-line="5849" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="eziukas.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eziukas.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2037">
+              <caret line="97" column="73" lean-forward="false" selection-start-line="97" selection-start-column="73" selection-end-line="97" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dele</find>
+      <find>avatar</find>
+      <find>delete</find>
+      <find>cities</find>
+      <find>showcase</find>
+      <find>section-pho</find>
+      <find>30px</find>
+      <find>showca</find>
+      <find>photos</find>
+      <find>photo</find>
+      <find>img</find>
+      <find>create_item_photo</find>
+      <find>va</find>
+      <find>images</find>
+      <find>check</find>
+      <find>Checkboxes and radios</find>
+      <find>message</find>
+      <find>messa</find>
+      <find>admin</find>
+      <find>demo</find>
+      <find>-lg</find>
+      <find>child</find>
+      <find>.eziukai-showcase li</find>
+      <find>photo-bo</find>
+      <find>section-photo</find>
+      <find>modal</find>
+      <find>modal-lg</find>
+      <find>close</find>
+      <find>photo-border</find>
+      <find>eziukai-showcase</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resources/css/custom.css" />
+        <option value="$PROJECT_DIR$/admin/delete_photo.php" />
+        <option value="$PROJECT_DIR$/admin/settings.php" />
+        <option value="$PROJECT_DIR$/admin/delete_post.php" />
+        <option value="D:/Puslapiai/gentelella-master/gentelella-master/production/profile.html" />
+        <option value="$PROJECT_DIR$/about.php" />
+        <option value="$USER_HOME$/Desktop/Gallery/gallery/phpmyinfo.php" />
+        <option value="$PROJECT_DIR$/phpmyinfo.php" />
+        <option value="$PROJECT_DIR$/includes/top-nav-index.php" />
+        <option value="$PROJECT_DIR$/includes/top-nav.php" />
+        <option value="$PROJECT_DIR$/post.php" />
+        <option value="$PROJECT_DIR$/apie_eziukus.php" />
+        <option value="$PROJECT_DIR$/admin/index.php" />
+        <option value="$PROJECT_DIR$/admin/includes/admin_topmenu.php" />
+        <option value="$PROJECT_DIR$/admin/includes/admin_footer_menu.php" />
+        <option value="$PROJECT_DIR$/admin/includes/item.php" />
+        <option value="$PROJECT_DIR$/admin/add_item.php" />
+        <option value="$PROJECT_DIR$/admin/items.php" />
+        <option value="$PROJECT_DIR$/admin/includes/main_class.php" />
+        <option value="$PROJECT_DIR$/admin/posts.php" />
+        <option value="$PROJECT_DIR$/admin/includes/user.php" />
+        <option value="$PROJECT_DIR$/admin/users.php" />
+        <option value="$PROJECT_DIR$/admin/add_user.php" />
+        <option value="$PROJECT_DIR$/admin/edit_item.php" />
+        <option value="$PROJECT_DIR$/admin/add_post.php" />
+        <option value="$PROJECT_DIR$/admin/includes/post.php" />
+        <option value="$PROJECT_DIR$/admin/edit_post.php" />
+        <option value="$PROJECT_DIR$/admin/includes/init.php" />
+        <option value="$PROJECT_DIR$/admin/includes/photo.php" />
+        <option value="$PROJECT_DIR$/admin/includes/admin_sidemenu.php" />
+        <option value="$PROJECT_DIR$/admin/includes/admin_header.php" />
+        <option value="$PROJECT_DIR$/admin/includes/admin_footer.php" />
+        <option value="$PROJECT_DIR$/valdymas/items.php" />
+        <option value="$PROJECT_DIR$/valdymas/add_item.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/valdymas/includes/main_class.php" />
+        <option value="$PROJECT_DIR$/valdymas/includes/photo.php" />
+        <option value="$PROJECT_DIR$/valdymas/show_title.php" />
+        <option value="$PROJECT_DIR$/valdymas/edit_item.php" />
+        <option value="$PROJECT_DIR$/resources/js/script.js" />
+        <option value="$PROJECT_DIR$/resources/css/queries.css" />
+        <option value="$PROJECT_DIR$/includes/header.php" />
+        <option value="$PROJECT_DIR$/includes/footer.php" />
+        <option value="$PROJECT_DIR$/vendors/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/eziukas.php" />
+        <option value="$PROJECT_DIR$/eziukai.php" />
+        <option value="$PROJECT_DIR$/valdymas/includes/init.php" />
+        <option value="$PROJECT_DIR$/valdymas/includes/config.php" />
+        <option value="$PROJECT_DIR$/resources/css/styles.css" />
+        <option value="$PROJECT_DIR$/valdymas/index.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Biruteseziukai.lt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="website" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/valdymas/includes/config.php" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\website\vendors\img" />
+      <recent name="C:\xampp\htdocs\website\vendors\js" />
+      <recent name="C:\xampp\htdocs\website\vendors\css" />
+      <recent name="C:\xampp\htdocs\website\valdymas\includes" />
+      <recent name="C:\xampp\htdocs\website\database" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d57913e-3273-4cb5-a771-68a8b798955b" name="Default" comment="" />
+      <created>1492327661999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492327661999</updated>
+      <workItem from="1492327663217" duration="23301000" />
+      <workItem from="1492360978665" duration="124000" />
+      <workItem from="1492419263710" duration="11856000" />
+      <workItem from="1492497201702" duration="25289000" />
+      <workItem from="1492531983059" duration="5836000" />
+      <workItem from="1492584641382" duration="4810000" />
+      <workItem from="1492590478872" duration="282000" />
+      <workItem from="1493018799457" duration="10309000" />
+      <workItem from="1493035770969" duration="363000" />
+      <workItem from="1493058006312" duration="25000" />
+      <workItem from="1494485276528" duration="20979000" />
+      <workItem from="1494577447129" duration="174000" />
+      <workItem from="1494867220458" duration="5000" />
+      <workItem from="1494867246501" duration="923000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="104276000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18230277" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16204691" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24702059" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24702059" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32782516" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/valdymas/edit_post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b66ec92d-e5b6-4239-92ad-6e3a2b2a6d2c/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/includes/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding>
+            <marker date="1493032704769" expanded="true" signature="413:477" ph="SELECT * FRO... ${static::$db_table}" />
+            <marker date="1493032704769" expanded="true" signature="565:621" ph="SELECT * FRO... ${static::$db_table}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/website.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/includes/session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/includes/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/includes/side_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/includes/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/includes/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/includes/admin_sidemenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/includes/admin_topmenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="18" column="65" lean-forward="false" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/includes/admin_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/includes/admin_footer_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/includes/admin_footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="20" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/includes/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="31" column="20" lean-forward="false" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+          <folding>
+            <marker date="1493031075685" expanded="true" signature="433:476" ph="SELECT * FRO... ${self::$db_table}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/includes/class.upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="2211" column="7" lean-forward="true" selection-start-line="2211" selection-start-column="7" selection-end-line="2211" selection-end-column="7" />
+          <folding>
+            <marker date="1489763766000" expanded="true" signature="82539:82545" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="82545:82551" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="82551:82557" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="82557:82563" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="83628:83634" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="83634:83640" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="83640:83646" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="83646:83652" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="84656:84662" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="84662:84668" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="84668:84674" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="84674:84680" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="84821:84827" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="84827:84833" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="84833:84839" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="84839:84845" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="86493:86499" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="86499:86505" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="86505:86511" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="86511:86517" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="86658:86664" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="86664:86670" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="86670:86676" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="86676:86682" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="86816:86822" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="86822:86828" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="86828:86834" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="86834:86840" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="88222:88228" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="88228:88234" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="88234:88240" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="88240:88246" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="89124:89130" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="89130:89136" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="89136:89142" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="89142:89148" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="90232:90238" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="90238:90244" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="90244:90250" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="90250:90256" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="121247:121253" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="121253:121259" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="121259:121265" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="121265:121271" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="141581:141587" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="141587:141593" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="141593:141599" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="141599:141605" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="141833:141839" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="141839:141845" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="141845:141851" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="141851:141857" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="149888:149894" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="149894:149900" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="149900:149906" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="149906:149912" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="150292:150298" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="150298:150304" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="150304:150310" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="150310:150316" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="150762:150768" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="150768:150774" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="150774:150780" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="150780:150786" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="158271:158277" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="158277:158283" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="158283:158289" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="158289:158295" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="159201:159207" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="159207:159213" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="159213:159219" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="159219:159225" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="159717:159723" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="159723:159729" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="159729:159735" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="159735:159741" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="160719:160725" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="160725:160731" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="160731:160737" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="160737:160743" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="194170:194176" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="194176:194182" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="194182:194188" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="194188:194194" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="195000:195006" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="195006:195012" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="195012:195018" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="195018:195024" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="195826:195832" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="195832:195838" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="195838:195844" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="195844:195850" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="196655:196661" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="196661:196667" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="196667:196673" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="196673:196679" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="228235:228241" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="228241:228247" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="228247:228253" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="228253:228259" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="231683:231689" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="231689:231695" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="231695:231701" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="231701:231707" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="235406:235412" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="235412:235418" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="235418:235424" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="235424:235430" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="237020:237026" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="237026:237032" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="237032:237038" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="237038:237044" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="237884:237890" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="237890:237896" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="237896:237902" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="237902:237908" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="238760:238766" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="238766:238772" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="238772:238778" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="238778:238784" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="239309:239315" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="239315:239321" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="239321:239327" ph=" " />
+            <marker date="1489763766000" expanded="true" signature="239327:239333" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/delete_item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/eziukas1494489002.JPG.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/eziukas1494489120.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/eziukas1494489366.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/eziukas1494489596.jpg" />
+    <entry file="file://D:/Puslapiai/gentelella-master/gentelella-master/production/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1225">
+          <caret line="814" column="48" lean-forward="true" selection-start-line="814" selection-start-column="48" selection-end-line="814" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/add_post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/fbd660a3/b66ec92d-e5b6-4239-92ad-6e3a2b2a6d2c/website.photos">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/includes/item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="26" />
+          <folding>
+            <marker date="1493021352484" expanded="true" signature="299:312" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/show_title.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="51" lean-forward="false" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/edit_item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="128" column="49" lean-forward="true" selection-start-line="128" selection-start-column="49" selection-end-line="128" selection-end-column="49" />
+          <folding>
+            <marker date="1494494590051" expanded="true" signature="486:7561" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="515:7554" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="548:7554" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="588:1422" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="635:1407" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="701:844" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="1624:7394" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="1651:7379" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="1692:1837" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="1737:1814" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="1916:4995" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="1981:4972" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="2027:4945" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="2077:2232" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="2284:4914" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="2640:4879" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="2702:3262" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="2817:2916" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="2998:3219" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="3323:3868" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="3437:3527" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="3609:3825" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="3930:4398" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="4028:4087" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="4169:4355" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="4525:4837" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="4623:4794" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="5030:7359" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="5074:7336" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="5120:7309" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="5170:5319" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="5371:7278" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="5422:7243" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="5560:7156" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="5624:7113" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="5704:7066" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="5919:7015" ph="..." />
+            <marker date="1494494590051" expanded="true" signature="6004:6960" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/items.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="78" column="36" lean-forward="true" selection-start-line="78" selection-start-column="36" selection-end-line="80" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/delete_photo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/add_item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/includes/photo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="108" column="49" lean-forward="true" selection-start-line="108" selection-start-column="49" selection-end-line="108" selection-end-column="49" />
+          <folding>
+            <marker date="1494493718457" expanded="true" signature="1956:2038" ph="SELECT * FRO... ${static::$db_table}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/includes/main_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="116" column="38" lean-forward="false" selection-start-line="116" selection-start-column="38" selection-end-line="116" selection-end-column="38" />
+          <folding>
+            <marker date="1494492707999" expanded="true" signature="168:182" ph="SELECT * FRO... ${static::$db_table}" />
+            <marker date="1494492707999" expanded="true" signature="326:388" ph="SELECT * FRO... ${static::$db_table}" />
+            <marker date="1494492707999" expanded="true" signature="585:641" ph="SELECT * FRO... ${static::$db_table}" />
+            <marker date="1494492707999" expanded="true" signature="844:900" ph="SELECT * FRO... ${static::$db_table}" />
+            <marker date="1494492707999" expanded="true" signature="844:920" ph="SELECT * FRO... ${static::$db_table}" />
+            <marker date="1494492707999" expanded="true" signature="2553:2637" ph="INSERT INTO ${static::$db_table}... " />
+            <marker date="1494492707999" expanded="true" signature="3413:3426" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendors/css/modal.css" />
+    <entry file="file://$PROJECT_DIR$/vendors/js/modal.js" />
+    <entry file="file://$USER_HOME$/Desktop/simplemodal-demo-basic-1.4.4/basic/index.html" />
+    <entry file="file://$USER_HOME$/Desktop/bootstrap-3.3.7/bootstrap-3.3.7/dist/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2331">
+          <caret line="111" column="34" lean-forward="false" selection-start-line="111" selection-start-column="34" selection-end-line="111" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="27" column="199" lean-forward="false" selection-start-line="27" selection-start-column="199" selection-end-line="27" selection-end-column="199" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2583">
+          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendors/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122640">
+          <caret line="5840" column="0" lean-forward="false" selection-start-line="5840" selection-start-column="0" selection-end-line="5849" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/queries.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eziukas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2037">
+          <caret line="97" column="73" lean-forward="false" selection-start-line="97" selection-start-column="73" selection-end-line="97" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eziukai.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/cfc71101-d344-4c28-a7a4-738e10cde76f/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/fbd660a3/cfc71101-d344-4c28-a7a4-738e10cde76f/livalt_eziukai.photos">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7980">
+          <caret line="380" column="13" lean-forward="false" selection-start-line="380" selection-start-column="13" selection-end-line="380" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/includes/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#39#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valdymas/includes/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
